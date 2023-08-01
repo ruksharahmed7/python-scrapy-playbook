@@ -2,6 +2,9 @@ import scrapy
 from chocolatescraper.itemloaders import ChocolateProductLoader
 from chocolatescraper.items import ChocolateProduct  
 from urllib.parse import urlencode
+
+#Video tutorial link: https://www.youtube.com/watch?v=NiFuoJw0sn8
+#Blog series: https://scrapeops.io/python-scrapy-playbook/scrapy-beginners-guide-deployment-scheduling-monitoring/
  
 API_KEY = 'YOUR_API_KEY'
 
